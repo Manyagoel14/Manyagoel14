@@ -2,14 +2,11 @@
 
 # Manya Goel
 
-**ML Engineer · Privacy-Preserving AI · LLM Applications**
+**BTech Student at Shiv Nadar University**
 
-*I build systems where machine learning models collaborate without exposing data —*
-*and ship them to production.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-![Profile Views](https://komarev.com/ghpvc/?username=Manyagoel14&color=0e75b6&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/manya-goel-948389317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manyagoel2014@gmail.com)
 
 </div>
 
@@ -17,11 +14,9 @@
 
 ## About
 
-I work at the intersection of **privacy-preserving ML**, **deep learning**, and **LLM-powered applications**. My projects span federated/swarm learning systems, multimodal drug interaction prediction, and RAG pipelines — with a focus on taking research ideas through to working implementations.
+I enjoy building things at the intersection of AI, distributed systems, and real-world impact. Over the past few years, I've worked on everything from Swarm Learning and Federated AI to medical AI for side-effect prediction, RAG-based news summarization, and computer vision applications.
 
-Currently exploring **MLOps**, **model deployment**, and **GenAI systems** at scale.
-
-📫 Open to **ML Engineering** and **Research Engineering** roles — feel free to reach out.
+Lately, I've been spending a lot of time figuring out how machine learning models can collaborate without sharing data, how distributed systems stay in sync, and why they occasionally decide not to.<br><br>I'm especially interested in Machine Learning and LLM-powered applications. I'm always excited to collaborate on projects that combine research with practical implementation. Currently, exploring PyTorch, MLOps, and GenAI.
 
 ---
 
@@ -87,15 +82,3 @@ Reproduced and extended an IEEE 2022 paper on high-resolution face reconstructio
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Manya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manyagoel14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Manyagoel14&theme=github-dark-blue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manyagoel14&theme=github_dark&hide_border=true&layout=compact)
-
-</div>
