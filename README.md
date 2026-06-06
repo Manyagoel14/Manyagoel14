@@ -2,7 +2,7 @@
 
 # Manya Goel
 
-**BTech Student at Shiv Nadar University**
+**BTech CSE Student**
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/manya-goel-948389317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
