@@ -27,7 +27,7 @@ Lately, I've been spending a lot of time figuring out how machine learning model
 
 Multimodal drug-drug interaction (DDI) system that fuses chemical, structural, and biological representations via **cross-attention mechanisms** to predict **963 adverse side effects**. Implemented and benchmarked MLP vs. GNN architectures on real-world pharmacological data.
 
-→ *April 2026* · [Repo](#)
+→ *April 2026* · [Repo](https://github.com/Manyagoel14/Polypharmacy-side-effect-prediction-via-LLM-based-SMILES-encodings)
 
 ---
 
@@ -36,7 +36,7 @@ Multimodal drug-drug interaction (DDI) system that fuses chemical, structural, a
 
 End-to-end retrieval-augmented pipeline for query-focused news summarization with **unigram-bigram relevance modelling**, synonym expansion, and dynamic pruning. Includes follow-up Q&A and a **fake-vs-real news detection module**.
 
-→ *November 2025* · [Repo](#)
+→ *November 2025* · [Repo](https://github.com/Manyagoel14/News-Summarizer)
 
 ---
 
@@ -45,7 +45,7 @@ End-to-end retrieval-augmented pipeline for query-focused news summarization wit
 
 Real-time classification system across **10 distraction categories** using CNN and VGG16 transfer learning. Supports both image and live video stream inference.
 
-→ *November 2025* · [Repo](#)
+→ *November 2025* · [Repo](https://github.com/Manyagoel14/DistractedDriver)
 
 ---
 
@@ -54,7 +54,7 @@ Real-time classification system across **10 distraction categories** using CNN a
 
 Reproduced and extended an IEEE 2022 paper on high-resolution face reconstruction from damaged/occluded images using the Swap R&R (Rotate and Render) framework.
 
-→ *April 2025* · [Repo](#)
+→ *April 2025*
 
 ---
 
